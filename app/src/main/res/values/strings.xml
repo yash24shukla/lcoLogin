@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LCO login</string>
+    <string name="Email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="signUpBtn">Click here</string>
+    <string name="copyright">Created by Yash </string>
+    <string name="welcome">LearnCodeOnline</string>
+    <string name="signUP">Do you want to register ? </string>
+    <string name="show">Submit </string>
+    <string name="Go">Log in</string>
+    <string name="signTitle"> Register </string>
+    <string name="dicription"> Let\'s Learn to code</string>
+
+</resources>
